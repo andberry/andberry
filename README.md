@@ -1,7 +1,6 @@
 👋 Hi, I’m Berry (Andrea Berardi)
 
-🇮🇹 🇨🇦 I'm ,
-an italian Web Developer currently located in Halifax (Nova Scotia) Canada.
+🇮🇹 🇨🇦 I'm an italian Web Developer currently located in Halifax (Nova Scotia) Canada.
 
 🧑🏻‍💻 Fallen in love with Component-Based development, 
 my main focus is Front-end Development,
